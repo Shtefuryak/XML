@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<My_First XML_file>
+
+  <my_details>
+    <first_name>Alexander</first_name>
+    <last_name>Shtefuryak</last_name>
+    <age>53 years old</age>
+  </my_details>
+
+  <my_pets>
+    <first_animal>cat</first_animal>
+    <second_animal>dog</second_animal>
+  </my_pets>
+
+
+  <my_expected_salary>120 000 rubles</my_expected_salary>  
+
+</My_First XML_file> 
